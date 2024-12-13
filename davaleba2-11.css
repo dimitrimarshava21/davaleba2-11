@@ -1,0 +1,170 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+.contact {
+    max-width: 1604px;
+    padding: 96px;
+}
+
+.conteiner {
+    max-width: 1412px;
+    background: #E8EEFF;
+    height: 2130px;
+    padding: 96px;
+
+}
+
+.conteiner__Beautiful {
+    color: #181D27;
+    font-family: Inter;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 80px;
+
+}
+
+.Beautiful__contact {
+    max-width: 920px;
+    margin: 0 auto;
+    text-align: center;
+
+}
+
+.analytics {
+    color: #05F;
+}
+
+.smarter {
+    color: #6941C6;
+    text-decoration-line: underline;
+}
+
+.Powerful__conteiner {
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    max-width: 768px;
+    margin: 0 auto;
+    margin-top: 24px;
+}
+
+.Screen__mockup__contact {
+    text-align: center;
+    margin-top: 64px;
+}
+
+.Screen__contact {
+    max-width: 1135px;
+}
+
+.Share__team__inboxes {
+    max-width: 350px;
+    border-radius: 8px;
+    background: #FFF;
+    text-align: center;
+    padding: 16px;
+    margin-left: 25px;
+    display: inline-block;
+}
+
+.message__chat__contact {
+    text-align: center;
+    width: 48px;
+    height: 48px;
+    padding: 12px;
+    border-radius: 10px;
+    border: 1px solid #E9EAEB;
+    background: #FFF;
+    margin: 0 auto;
+}
+
+.Share__team__contatc {
+    display: block;
+    color: #181D27;
+    text-align: center;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.loop__conteiner {
+    display: block;
+    color: #535862;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    margin-top: 8px;
+}
+
+.contact__inboxes {
+    display: inline-block;
+    margin-top: 64px;
+}
+
+.Give__shot__contact {
+    max-width: 1216px;
+    border-radius: 24px;
+    background: #53389E;
+    height: 400px;
+    margin-top: 64px;
+    padding: 64px;
+    background-image: url(./Image12.png);
+    background-repeat: no-repeat;
+    background-position: top right;
+}
+
+.Give__us__contact {
+    color: #FFF;
+    font-family: Inter;
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 44px;
+    margin-top: 64px;
+    display: block;
+}
+
+.startups__already__conteiner {
+    display: block;
+    color: #E9D7FE;
+    font-family: Inter;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 30px;
+    margin-top: 20px;
+}
+
+.Learn__more {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 1px solid #D5D7DA;
+    background: #FFF;
+    margin-right: 20px;
+
+}
+
+.Get__started {
+    padding: 12px 18px;
+    border-radius: 8px;
+    border: 2px solid #FFF;
+    background: #7F56D9;
+}
+
+.contact__started{
+    margin-top: 48px;
+}
